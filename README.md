@@ -8,6 +8,14 @@
 <h2>
 - 🤔 Interessado em JS
 </h2>
+<h2>
+- 😁 Você pode me encontrar em:
+</h2>
+
+<div>
+<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
