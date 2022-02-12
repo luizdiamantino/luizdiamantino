@@ -13,8 +13,8 @@
 </h2>
 
 <div>
-<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/luiz.diamantino/?hl=pt-br">
+<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" href="https://www.youtube.com/channel/UCi_fsZUS-iYFsqlTU-M3_BA/featured">
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
