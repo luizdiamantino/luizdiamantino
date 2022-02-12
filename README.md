@@ -27,3 +27,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizdiamantino&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizdiamantino&layout=demo&theme=github_dark)](https://github.com/luizdiamantino)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/luizfilipediamantino/count.svg" />
+</p>
