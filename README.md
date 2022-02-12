@@ -1,4 +1,4 @@
-## Eai, eu sou o Luiz
+<h1>## Eai, eu sou o Luiz</h1>
 <h2>
 - 🔭 Trabalho com Front-End
 </h2>
